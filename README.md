@@ -10,7 +10,8 @@ A simple python implementation for using the useful sensors tiny qr-code reader
 
 
 ## Wiring
-TBA
+<img src="TinyCodeReaderRaspberryPi.jpeg" alt="The wiring connecting a Raspberry Pi to the Tiny QR Code Reader" width="300"/>
+
 
 
 
